@@ -1,0 +1,13 @@
+{
+	"name": "grunt-release-test",
+	"version": "1.2.43",
+	"private": true,
+	"devDependencies": {
+		"grunt": "*",
+		"grunt-contrib-uglify": "*",
+		"grunt-contrib-cssmin": "*",
+		"grunt-bump": "*",
+		"grunt-string-replace": "*",
+		"grunt-contrib-copy": "*"
+	}
+}

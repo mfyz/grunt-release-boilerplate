@@ -1,0 +1,16 @@
+body {
+	font: 16px/24px Helvetica Neue, Helvetica, Arial;
+	padding: 50px;
+	margin: 0;
+}
+
+.head {
+	border-bottom: 1px solid #cccccc;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+
+.head h1 {
+	padding: 0;
+	margin: 0;
+}
